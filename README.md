@@ -50,11 +50,3 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL Workbench"> <b>MySQL Workbench</b>
 </p>
 
-## 🎓 Education
-
-- 🎓 Master's in Computer Applications
-- 📐 Bachelor's in Mathematics
-
-
-
-</p>
